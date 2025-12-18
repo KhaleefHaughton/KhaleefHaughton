@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I am Jamaican, Chinese, Vietnamese, Guyanese
 - 📫 How to reach me khaleefhaughton876@gmail.com
 
-[<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/c07a1328-e229-4986-8ef3-9c76f0bd69dd" />
+[<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/8c6ada5c-a4e1-403d-9228-cbb63220b510" />
 Linkedin](www.linkedin.com/in/khaleefhaughton) [Portfolio](https://medium.com/@KhaleefHaughton) [Email](khaleef.haughton876@gmail.com
 )
 
