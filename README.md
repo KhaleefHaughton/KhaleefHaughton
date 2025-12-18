@@ -1,4 +1,4 @@
-## 👋🏾 Hi, IM @Khaleef Haughton
+👋🏾 Hi, IM @Khaleef Haughton
 
 - 🔭 I’m currently working on being the best AWS Engineer in the world.
 - 🌱 I’m currently learning AWS, Azure, Terraform, Machine Learning
