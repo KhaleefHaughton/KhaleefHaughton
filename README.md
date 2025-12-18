@@ -7,8 +7,8 @@
 
 [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/19f706da-07a1-4f34-99da-15dbba22886e" />
 ](www.linkedin.com/in/khaleefhaughton) [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/db5b7811-a3a9-4b05-a569-9e90e82901d4" />
-](https://medium.com/@KhaleefHaughton) <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/d33d496b-1677-4b37-aaf9-dcd9f1b62d52" />
-(khaleef.haughton876@gmail.com)
+](https://medium.com/@KhaleefHaughton) [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/d33d496b-1677-4b37-aaf9-dcd9f1b62d52" />
+](khaleef.haughton876@gmail.com)
 
 
 
