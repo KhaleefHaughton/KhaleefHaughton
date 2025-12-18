@@ -10,8 +10,7 @@
 ](https://medium.com/@KhaleefHaughton) [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/d33d496b-1677-4b37-aaf9-dcd9f1b62d52" />
 ](khaleef.haughton876@gmail.com)
 
-
-##⚡Technologies
+⚡Technologies
 
 <img width="85" height="20" alt="image" src="https://github.com/user-attachments/assets/b00a9420-d057-4dbb-b38d-c37ce832cd65" />
 <img width="43" height="20" alt="image" src="https://github.com/user-attachments/assets/8ac7f992-0c45-4d55-a96f-ff3db6c1bbe2" />
